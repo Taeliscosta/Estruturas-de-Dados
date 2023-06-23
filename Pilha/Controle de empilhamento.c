@@ -70,6 +70,7 @@ void empilhar(){
         printf("\nCaixa empilhada com sucesso!\n");
     }
 }
+
 void desempilhar(){
     if(p.topo == -1){
         printf("\nA caixa ta vazia!\n");
@@ -83,6 +84,7 @@ void desempilhar(){
         printf("Fornecedor: %s\n", caixa_desempilha.fornecedor);
     }
 }
+
 void imprimir_pilha(){
     if(p.topo == -1){
         printf("\nA caixa ta vazia!\n");
