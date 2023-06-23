@@ -3,7 +3,6 @@
 //Ex: 1 20 30 50
 //min = 1 e max = 50
 
-
 #include <stdio.h>
 #include <stdlib.h>
 
