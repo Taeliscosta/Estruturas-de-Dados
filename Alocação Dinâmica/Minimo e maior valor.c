@@ -1,3 +1,9 @@
+//Utilizando alocação dinâmica de memória, escreva um programa que receba um vetor de n inteiros (até que digite 0 - sair)
+//E os endereços de duas variáveis inteiras, digamos min e max, e deposite nessas variáveis o menor valor digitado e o maior.
+//Ex: 1 20 30 50
+//min = 1 e max = 50
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
