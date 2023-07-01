@@ -16,7 +16,7 @@ int main(){
   
  for(int i = 0; i < tam; i++){
    if(vetor[i] % 2 == 0){
-     printf("Valor par %d, posição na memoria %p\n", vetor[i], &vetor[i]);
+     printf("Valor par %d, posicao na memoria %p\n", vetor[i], &vetor[i]);
    }
  }
   
